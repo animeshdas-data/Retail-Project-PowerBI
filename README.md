@@ -128,7 +128,8 @@ I designed a single-page report with 16 visuals:
 ├── Retail_Project_PowerBI.pbit   # The Power BI template
 └── README.md                     # This file
 ```
-
+## 📁 Files Screenshot / Demo
+-[Dashboard Preview].()
 ---
 
 *This is one of my beginner projects. Feedback and suggestions are always welcome! 😊*
