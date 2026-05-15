@@ -129,7 +129,7 @@ I designed a single-page report with 16 visuals:
 └── README.md                     # This file
 ```
 ## 📁 Files Screenshot / Demo
--[Dashboard Preview].()
+-[Dashboard Preview].(https://github.com/animeshdas-data/Retail-Project-PowerBI/blob/main/Retail%20Sales%20Project%20Snap.jpg)
 ---
 
 *This is one of my beginner projects. Feedback and suggestions are always welcome! 😊*
